@@ -5,4 +5,31 @@
 			"path": "."
 		}
 	],
+
+	"build_systems":
+	[
+		{
+			"name": "Cargo Clean",
+      		"working_dir": "${project_path:${folder}}",
+      		"shell_cmd": "cargo clean"
+		},
+
+		{
+			"name": "Cargo Run",
+      		"working_dir": "${project_path:${folder}}",
+      		"shell_cmd": "cargo clean && cargo run"
+		},
+
+		{
+			"name": "Cargo Build",
+      		"working_dir": "${project_path:${folder}}",
+      		"shell_cmd": "cargo clean && cargo build"
+		},
+
+		{
+			"name": "Cargo Test",
+      		"working_dir": "${project_path:${folder}}",
+      		"shell_cmd": "cargo clean && cargo test"
+		}
+	]
 }

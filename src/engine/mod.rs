@@ -1,13 +1,9 @@
 // ---------------------------------------- Copyright 2022, Redacted Studios, All rights reserved ---------------------------------------- //
 // Project:      Redacted Engine                                                                                                           //
-// File:         main.rs                                                                                                                   //
+// File:         engine/mod.rs                                                                                                             //
 // Developer(s): Redacted Studios, Nathan Russell                                                                                          //
-// Purpose:      Manage the applications entry point                                                                                       //
+// Purpose:      Manage the Redacted Engine's core                                                                                         //
 // Notes:        None                                                                                                                      //
 // --------------------------------------------------------------------------------------------------------------------------------------- //
 
-mod engine;
-
-fn main() {
-    println!("Hello, Redacted!");
-}
+mod window;
