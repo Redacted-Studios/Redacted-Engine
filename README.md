@@ -1,6 +1,6 @@
 # Redacted Engine
 
-## Please note that the `README` and `LICENSE` is intended to be updated in the future. At the current time you must abide with the following license.
+Please note that the `README` and `LICENSE` is intended to be updated in the future. At the current time you must abide with the following license.
 
 ### [License](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1):
 
@@ -18,4 +18,5 @@ No additional restrictions | You may not apply legal terms or technological meas
 Term | Definition
 -----|------
 Share | copy and redistribute the material in any medium or format.
+
 [Redacted Engine](https://example.com/) © 2022 by [Nathan Russell](https://example.com/) and [Redacted Studios](https://example.com/) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1).
