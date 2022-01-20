@@ -1,0 +1,15 @@
+[package]
+name = "redacted"
+version = "0.0.1"
+edition = "2021"
+authors = ["Redacted Studios", "Nathan Russell"]
+description = "A Redacted Studios application."
+readme = "README.md"
+homepage = "null"
+repository = "null"
+license-file = "LICENSE.txt"
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
