@@ -19,4 +19,4 @@ Term | Definition
 -----|------
 Share | copy and redistribute the material in any medium or format.
 
-[Redacted Engine](https://example.com/) © 2022 by [Nathan Russell](https://example.com/) and [Redacted Studios](https://example.com/) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1).
+[Redacted Engine](https://github.com/Redacted-Studios/Redacted-Engine) © 2022 by [Nathan Russell](https://github.com/NathanRussell22) and [Redacted Studios](https://github.com/Redacted-Studios) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1).
