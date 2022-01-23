@@ -5,11 +5,13 @@ edition = "2021"
 authors = ["Redacted Studios", "Nathan Russell"]
 description = "A Redacted Studios application."
 readme = "README.md"
-homepage = "null"
-repository = "null"
+homepage = "http://redactedstudios.crypto"
+repository = "https://github.com/Redacted-Studios/Redacted-Engine"
 license-file = "LICENSE.txt"
 publish = false
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+winit = "0.26.1"
+vulkano = "0.27.1"
