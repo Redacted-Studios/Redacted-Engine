@@ -1,0 +1,7 @@
+/bin
+/target
+
+*.exe
+*.dll
+*.lib
+*.a
