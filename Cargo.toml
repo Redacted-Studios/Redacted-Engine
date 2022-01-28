@@ -9,9 +9,14 @@ homepage = "http://redactedstudios.crypto"
 repository = "https://github.com/Redacted-Studios/Redacted-Engine"
 license-file = "LICENSE.txt"
 publish = false
+# build = "build.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-winit = "0.26.1"
-vulkano = "0.27.1"
+# sdl2 = "0.35"
+# raylib = { version = "3.7", git = "https://github.com/deltaphc/raylib-rs" }
+
+[dependencies.glfw]
+git = "https://github.com/bjz/glfw-rs.git"
+default-features = false
